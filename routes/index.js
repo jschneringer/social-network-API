@@ -2,7 +2,7 @@
 const router = require('express').Router();
 
 // API routes
-const apiRoutes = requires('./api');
+const apiRoutes = require('./api');
 
 router.use('/api', apiRoutes);
 
