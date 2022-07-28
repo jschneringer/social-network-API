@@ -1,5 +1,7 @@
 <h1>Social Network API</h1>
 
+
+<h1> Description </h1>
 <p> The purpose of this assignment was to create a social network applications where you can interact with other user's add friends and react to posts</p>
 
 <h1> Technologies Used</h1>
